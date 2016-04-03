@@ -1,0 +1,10 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Cources09\Cources09\bin\Debug\Cources09.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources09\Cources09\bin\Debug\Cources09.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Cources09\Cources09\obj\Debug\Cources09.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\Cources09\Cources09\obj\Debug\Cources09.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources09\Cources09\obj\Debug\Cources09.pdb
+C:\Users\Oleg\Documents\Cources09\Cources09\obj\Debug\Cources09.exe
+C:\Users\Oleg\Documents\Cources09\Cources09\obj\Debug\Cources09.pdb
+C:\Users\Oleg\Documents\Cources09\Cources09\obj\Debug\Cources09.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Cources09\Cources09\bin\Debug\Cources09.exe
+C:\Users\Oleg\Documents\Cources09\Cources09\bin\Debug\Cources09.pdb
